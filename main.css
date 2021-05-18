@@ -1,11 +1,10 @@
-
-
 html,body {
   font-family: 'Raleway', sans-serif;
   padding: 3em 2em;
   font-size: 12px;
   background-color: #bedcfa;
   color: black;
+  overflow-x: hidden;
 }
 
 /*Home */
